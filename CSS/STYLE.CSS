@@ -1,0 +1,18 @@
+ul{list-style: none;
+
+display: flex;
+justify-content: space-evenly;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+background-color:rgb(97, 121, 14);
+padding: 20px 20px 20px 20px;
+border-style: solid;
+}
+
+title {font-family:Arial, Helvetica, sans-serif }
+
+a{text-decoration: none; 
+    text-transform: uppercase;
+    color: aliceblue;
+}
+
