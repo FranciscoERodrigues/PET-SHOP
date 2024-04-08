@@ -7,12 +7,68 @@ text-align: center;
 background-color:rgb(97, 121, 14);
 padding: 20px 20px 20px 20px;
 border-style: solid;
+
 }
 
-title {font-family:Arial, Helvetica, sans-serif }
+title {font-family:Arial, Helvetica, sans-serif 
+    
+  
+}
 
 a{text-decoration: none; 
     text-transform: uppercase;
-    color: aliceblue;
+    color: rgb(255, 255, 255);  
+    
+
+
+
+}
+
+h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+font-size: 230% ;}
+
+p{ text-align: center;}
+
+.mudançaum { text-align:left }
+.mudançadois { text-align:left }
+.mudançatres {text-align:left }
+
+body {
+
+    background-color: rgb(221, 208, 201); 
+
+}
+
+table, th, td { 
+    margin: auto;
+    border: 3px solid;
+    border-collapse: collapse;
+}
+
+.chatbot{ 
+    background: none;
+    width: 66px;
+    height: 66px;
+    position: fixed;
+    border-radius: 25px;
+    border: 2px solid none(247, 222, 208);
+    cursor: pointer;
+    right: 5px;
+    bottom: 5px;
+    transition:1s;
+
+ }
+
+.chatbot:hover{ 
+    background: none(247, 222, 208);
+    border-radius: 15%; 
+    width: 99px;
+    height: 99px;  
+    
+}
+
+.chatbot img{ 
+    width: 50px; 
 }
 
